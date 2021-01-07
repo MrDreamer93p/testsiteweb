@@ -1,0 +1,40 @@
+/*Couleur Fond et Texte*/
+body
+{
+	font-family:"Trebuchet MS";
+	background-color: silver;
+	color: black;
+	
+	border:ridge 10px red;
+	min-height:800px;
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:2%;
+	margin-top:2%;
+}
+
+/*Taille Icon Accueil*/
+.IconeAccueil
+{
+	width:60px;
+	height:60px;
+	border:ridge 2px Gray;
+	
+}
+
+/*Taille Photo */
+.ImageBora
+{
+	width: 350px;
+	height: 500px;
+	margin-right: 5%;
+	padding-left: 10%;
+
+}
+
+/*Taille Bouton*/
+.BoutonBora
+{
+	width: 200px;
+	height: 40px;
+}
