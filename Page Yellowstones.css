@@ -2,10 +2,9 @@
 body
 {
 	font-family:"Trebuchet MS";
-	background-color: silver;
+	background: radial-gradient(white,grey, black);
 	color: black;
 	
-	border:ridge 10px red;
 	min-height:800px;
 	margin-left:5%;
 	margin-right:5%;
@@ -23,19 +22,18 @@ body
 
 }
 
-/*Taille Icon Accueil*/
-.IconeAccueil
-{
-	width:60px;
-	height:60px;
-	border:ridge 2px Gray;
-	
-}
-
 /*Taille Bouton*/
 .BoutonYellow
 {
 	width: 200px;
 	height: 40px;
+}
+div
+{
+	padding-top:2.5%;
+}
+.ImageYellow
+{
+	padding-top:2.5%;
 }
 

@@ -2,10 +2,9 @@
 body
 {
 	font-family:"Trebuchet MS";
-	background-color: silver;
+	background: radial-gradient(white,grey, black);
 	color: black;
 	
-	border:ridge 10px red;
 	min-height:800px;
 	margin-left:5%;
 	margin-right:5%;
@@ -13,14 +12,6 @@ body
 	margin-top:2%;
 }
 
-/*Taille Icon Accueil*/
-.IconeAccueil
-{
-	width:60px;
-	height:60px;
-	border:ridge 2px Gray;
-	
-}
 
 /*Taille Photo */
 .ImageSydney
@@ -37,4 +28,12 @@ body
 {
 	width: 200px;
 	height: 40px;
+}
+div
+{
+	padding-top:2.5%;
+}
+.ImageSydney
+{
+	padding-top:5%;
 }
